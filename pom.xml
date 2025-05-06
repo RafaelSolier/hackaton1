@@ -8,6 +8,7 @@
         <version>3.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <artifactId/>
     <version>0.0.1-SNAPSHOT</version>
     <url/>
     <licenses>
@@ -54,6 +55,12 @@
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>dev.langchain4j</groupId>
+            <artifactId>langchain4j-github-models</artifactId>
+            <version>1.0.0-alpha1</version>
         </dependency>
     </dependencies>
 
