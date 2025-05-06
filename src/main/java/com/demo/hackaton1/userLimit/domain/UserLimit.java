@@ -1,6 +1,6 @@
-package com.example.hack_1.userLimit.domain;
+package com.demo.hackaton1.userLimit.domain;
 
-import com.example.hack_1.user.domain.User;
+import com.demo.hackaton1.user.domain.User;
 import jakarta.persistence.*;
 import lombok.*;
 import java.time.LocalDateTime;

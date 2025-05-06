@@ -1,4 +1,4 @@
-package com.example.hack_1.user.domain;
+package com.demo.hackaton1.user.domain;
 
 public enum Role {
     ROLE_SPARKY_ADMIN,

@@ -1,8 +1,8 @@
-package com.example.hack_1.user.domain;
+package com.demo.hackaton1.user.domain;
 
-import com.example.hack_1.company.domain.Company;
-import com.example.hack_1.requestLog.domain.RequestLog;
-import com.example.hack_1.userLimit.domain.UserLimit;
+import com.demo.hackaton1.company.domain.Company;
+import com.demo.hackaton1.requestLog.domain.RequestLog;
+import com.demo.hackaton1.userLimit.domain.UserLimit;
 import jakarta.persistence.*;
 import lombok.*;
 import java.util.List;

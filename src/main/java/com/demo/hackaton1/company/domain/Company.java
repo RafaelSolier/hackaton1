@@ -1,8 +1,8 @@
-package com.example.hack_1.company.domain;
+package com.demo.hackaton1.company.domain;
 
-import com.example.hack_1.requestLog.domain.RequestLog;
-import com.example.hack_1.restriction.domain.Restriction;
-import com.example.hack_1.user.domain.User;
+import com.demo.hackaton1.requestLog.domain.RequestLog;
+import com.demo.hackaton1.restriction.domain.Restriction;
+import com.demo.hackaton1.user.domain.User;
 import jakarta.persistence.*;
 import lombok.*;
 import java.time.LocalDate;
